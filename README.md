@@ -1,3 +1,5 @@
-# My Awesome Book
+# GA道
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+GIFTED AGENTに属する構成員が規範とすべき価値基準。
+
+
