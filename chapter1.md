@@ -1,3 +1,3 @@
-# First Chapter
+# 社会とは
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+社会とは人が生活をする集団である。
