@@ -85,5 +85,6 @@ console.log("Hello World");
 [http://d.hatena.ne.jp/mabots/20120203/1328233930](https://www.gitbook.com/book/giftedagent/gadao/edit#)  
 [http://www.afpbb.com/articles/-/2854896](https://www.gitbook.com/book/giftedagent/gadao/edit#)  
 嫌われない勇気  
-なぜゴッホは貧乏で、ピカソは金持ちだったのか
+なぜゴッホは貧乏で、ピカソは金持ちだったのか  
+聖書 ヨハネによる福音書1章1節
 
