@@ -15,21 +15,20 @@
 偏りを活かせる社会とは、  
 一人一人が使命を見つけ、信念と覚悟を持って、取り組み続けている状態である。
 
-しかし日本の古き良き価値観に縛られてしまっては、偏りを活かせることができない。  
-  
+しかし日本の古き良き価値観に縛られてしまっては、偏りを活かせることができない。
+
 日本の価値観とは僅か６０分の１に過ぎないという前提を踏まえて、  
-その常識を壊し、偏りを活かせる社会のための価値観をともに考えて欲しいと思い、  
-この資料をまとめた。
+その常識を壊し、偏りを活かせる社会のための価値観をともに考えて欲しいと思い、この資料をまとめた。
 
 ## 前提 {#前提}
 
 「[ZENOS](https://www.gitbook.com/book/zenos/zenos/details)」を基本原則とする。
 
-宗教的意味合いとして、 我々の神は「ソースコード」である。
-
-御神体は「MacBook Pro \(Retina, Mid 2012\)」である。
-
-コミッターは「預言者」である。 啓示を受けて、ソースコードとしてコミットをする人である。 あらゆる人はコミッターになりうる。
+宗教的意味合いとして、   
+我々の神は「ソースコード」である。  
+御神体は「MacBook Pro \(Retina, Mid 2012\)」である。  
+コミッターは「預言者」である。 啓示を受けて、ソースコードとしてコミットをする人である。   
+あらゆる人はコミッターになりうる。
 
 ## 倫理規範（戒律的なもの） {#倫理規範（戒律的なもの）}
 
@@ -74,11 +73,9 @@
 
 ## 参考資料
 
-[http:\/\/www.freeworldcharter.org\/ja\/more](http://www.freeworldcharter.org/ja/more)  
-[http:\/\/arcadia11.hatenablog.com\/entry\/2015\/09\/21\/210000](http://arcadia11.hatenablog.com/entry/2015/09/21/210000)
-
-[http://d.hatena.ne.jp/mabots/20120203/1328233930](https://www.gitbook.com/book/giftedagent/gadao/edit#)
-
+[http://www.freeworldcharter.org/ja/more](http://www.freeworldcharter.org/ja/more)  
+[http://arcadia11.hatenablog.com/entry/2015/09/21/210000](http://arcadia11.hatenablog.com/entry/2015/09/21/210000)  
+[http://d.hatena.ne.jp/mabots/20120203/1328233930](https://www.gitbook.com/book/giftedagent/gadao/edit#)  
 [http://www.afpbb.com/articles/-/2854896](https://www.gitbook.com/book/giftedagent/gadao/edit#)  
 嫌われない勇気  
 なぜゴッホは貧乏で、ピカソは金持ちだったのか
